@@ -3,7 +3,7 @@ package utils
 import (
 	"testing"
 
-	"github.com/qingbing/utils/debug"
+	"github.com/qingbing/go-helpers/debug"
 )
 
 func Test_RandInt(t *testing.T) {
